@@ -1,0 +1,5089 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "87aac022-68be-420a-bb0b-b59b6092b0ff")
+	(paper "A4")
+	(lib_symbols
+		(symbol "Apollo4:CRCW04021K00FKED (Altium Display 2)"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 2.286 0.762 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+				)
+			)
+			(property "Value" "1kΩ"
+				(at 2.286 -3.302 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "AMA4BLEVB:MFG"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Res Thick Film 0402 1K Ohm 1% 1/16W ±100ppm/°C Molded SMD Paper T/R"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "AMBIQ PN" "CRCW04021K00FKED"
+				(at -0.508 0.762 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Supplier 1" "RSComponents"
+				(at -0.508 0.762 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Supplier Part Number 1" "6788872"
+				(at -0.508 0.762 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "Vishay Dale"
+				(at -0.508 0.762 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer Part Number" "CRCW04021K00FKED"
+				(at -0.508 0.762 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "RoHS" "Yes"
+				(at -0.508 0.762 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Category" "Chip SMD Resistors"
+				(at -0.508 0.762 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Stock 1" "9350"
+				(at -0.508 0.762 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Pricing 1" "50=0.04800, 500=0.04400, 1000=0.04000, 2000=0.03500, 4000=0.03100 (GBP)"
+				(at -0.508 0.762 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Mount" "Surface Mount"
+				(at -0.508 0.762 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Case/Package" "0402"
+				(at -0.508 0.762 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Weight" "2.3E-05oz"
+				(at -0.508 0.762 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Case Code (Metric)" "1005"
+				(at -0.508 0.762 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Case Code (Imperial)" "0402"
+				(at -0.508 0.762 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Contact Plating" "Tin"
+				(at -0.508 0.762 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Size Code" "0402"
+				(at -0.508 0.762 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Min Operating Temperature" "-55°C"
+				(at -0.508 0.762 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Max Operating Temperature" "155°C"
+				(at -0.508 0.762 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Resistance" "1kR"
+				(at -0.508 0.762 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Power Rating" "63mW"
+				(at -0.508 0.762 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Voltage Rating" "50V"
+				(at -0.508 0.762 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Package Quantity" "10"
+				(at -0.508 0.762 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Packaging" "Tape and Reel"
+				(at -0.508 0.762 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Resistor Type" "Thick Film"
+				(at -0.508 0.762 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Number of Terminations" "2"
+				(at -0.508 0.762 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Termination" "SMD/SMT"
+				(at -0.508 0.762 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Max Power Dissipation" "63mW"
+				(at -0.508 0.762 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Temperature Coefficient" "100ppm/°C"
+				(at -0.508 0.762 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Voltage Rating (DC)" "50V"
+				(at -0.508 0.762 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Features" "Automotive AEC-Q200"
+				(at -0.508 0.762 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Series" "CRCW"
+				(at -0.508 0.762 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Technology" "THICK FILM"
+				(at -0.508 0.762 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Construction" "Rectangular"
+				(at -0.508 0.762 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Length" "1mm"
+				(at -0.508 0.762 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Width" "0.5mm"
+				(at -0.508 0.762 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Height" "0.35mm"
+				(at -0.508 0.762 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Depth" "0.5mm"
+				(at -0.508 0.762 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Radiation Hardening" "No"
+				(at -0.508 0.762 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "REACH SVHC" "Unknown"
+				(at -0.508 0.762 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Military Standard" "Not"
+				(at -0.508 0.762 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Lead Free" "Lead Free"
+				(at -0.508 0.762 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "RoHS Compliant" "Yes"
+				(at -0.508 0.762 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "ComponentLink1URL" "https://datasheet.ciiva.com/11808/0900766b80d98824-11808638.pdf"
+				(at -0.508 0.762 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "ComponentLink1Description" "https://datasheet.ciiva.com/11808/0900766b80d98824-11808638.pdf"
+				(at -0.508 0.762 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "ComponentLink2URL" "https://datasheet.ciiva.com/2463/dcrcwe3-2463028.pdf"
+				(at -0.508 0.762 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "ComponentLink2Description" "https://datasheet.ciiva.com/2463/dcrcwe3-2463028.pdf"
+				(at -0.508 0.762 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "ComponentLink3URL" "https://datasheet.ciiva.com/2463/dcrcwe3-2463029.pdf"
+				(at -0.508 0.762 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Tolerance" "1%"
+				(at -0.508 0.762 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Number of Pins" "2"
+				(at -0.508 0.762 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Resistance Tolerance" "1%"
+				(at -0.508 0.762 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "*MFG*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "CRCW04021K00FKED (Altium Display 2)_1_0"
+				(rectangle
+					(start 5.08 -1.524)
+					(end 0 -3.556)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -2.54 -2.54 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 -2.54 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Apollo4:GND_POWER_GROUND"
+			(power)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "GND"
+				(at 0 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name 'GND'"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "power-flag"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "GND_POWER_GROUND_0_0"
+				(polyline
+					(pts
+						(xy -2.54 -2.54) (xy 2.54 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.778 -3.302) (xy 1.778 -3.302)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.016 -4.064) (xy 1.016 -4.064)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.254 -4.826) (xy 0.254 -4.826)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Apollo4:NANOT160AS"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "S"
+				(at 19.05 7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Value" "NANOT160AS"
+				(at 19.05 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "NANOT160AS"
+				(at 19.05 -94.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.ckswitches.com/media/2866/nanot.pdf"
+				(at 19.05 -194.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" "Tactile Switch SPST 20mA 15VDC SMD/SMT Non-Illuminated -40C ~ 85C"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" "0.65"
+				(at 19.05 -394.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" "611-NANOT160AS"
+				(at 19.05 -494.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/CK/NANOT160AS?qs=OlC7AqGiEDnK60t%2FC6IJyA%3D%3D"
+				(at 19.05 -594.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "C & K COMPONENTS"
+				(at 19.05 -694.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "NANOT160AS"
+				(at 19.05 -794.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(symbol "NANOT160AS_1_1"
+				(rectangle
+					(start 5.08 2.54)
+					(end 17.78 -5.08)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 5.08)
+					(name "COM"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 0)
+					(length 5.08)
+					(name "NO"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Apollo4:TC2030-IDC"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 8.89 6.35 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Value" "TC2030-IDC"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Footprint" "CONN_TC2030-IDC_TGC"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "TC2030-IDC"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "TC2030-IDC"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "CONN_TC2030-IDC_TGC"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "TC2030-IDC_1_1"
+				(polyline
+					(pts
+						(xy 5.08 2.54) (xy 5.08 -15.24)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 -15.24) (xy 12.7 -15.24)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.16 0) (xy 5.08 0)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.16 0) (xy 8.89 0.8467)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.16 0) (xy 8.89 -0.8467)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.16 -2.54) (xy 5.08 -2.54)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.16 -2.54) (xy 8.89 -1.6933)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.16 -2.54) (xy 8.89 -3.3867)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.16 -5.08) (xy 5.08 -5.08)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.16 -5.08) (xy 8.89 -4.2333)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.16 -5.08) (xy 8.89 -5.9267)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.16 -7.62) (xy 5.08 -7.62)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.16 -7.62) (xy 8.89 -6.7733)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.16 -7.62) (xy 8.89 -8.4667)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.16 -10.16) (xy 5.08 -10.16)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.16 -10.16) (xy 8.89 -9.3133)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.16 -10.16) (xy 8.89 -11.0067)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.16 -12.7) (xy 5.08 -12.7)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.16 -12.7) (xy 8.89 -11.8533)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.16 -12.7) (xy 8.89 -13.5467)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 12.7 2.54) (xy 5.08 2.54)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 12.7 -15.24) (xy 12.7 2.54)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 0 0 0)
+					(length 5.08)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 0 -2.54 0)
+					(length 5.08)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 0 -5.08 0)
+					(length 5.08)
+					(name "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 0 -7.62 0)
+					(length 5.08)
+					(name "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 0 -10.16 0)
+					(length 5.08)
+					(name "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 0 -12.7 0)
+					(length 5.08)
+					(name "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "TC2030-IDC_1_2"
+				(polyline
+					(pts
+						(xy 5.08 2.54) (xy 5.08 -15.24)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 -15.24) (xy 12.7 -15.24)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 0) (xy 5.08 0)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 0) (xy 8.89 0.8467)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 0) (xy 8.89 -0.8467)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 -2.54) (xy 5.08 -2.54)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 -2.54) (xy 8.89 -1.6933)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 -2.54) (xy 8.89 -3.3867)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 -5.08) (xy 5.08 -5.08)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 -5.08) (xy 8.89 -4.2333)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 -5.08) (xy 8.89 -5.9267)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 -7.62) (xy 5.08 -7.62)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 -7.62) (xy 8.89 -6.7733)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 -7.62) (xy 8.89 -8.4667)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 -10.16) (xy 5.08 -10.16)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 -10.16) (xy 8.89 -9.3133)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 -10.16) (xy 8.89 -11.0067)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 -12.7) (xy 5.08 -12.7)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 -12.7) (xy 8.89 -11.8533)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 -12.7) (xy 8.89 -13.5467)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 12.7 2.54) (xy 5.08 2.54)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 12.7 -15.24) (xy 12.7 2.54)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 0 0 0)
+					(length 5.08)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 0 -2.54 0)
+					(length 5.08)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 0 -5.08 0)
+					(length 5.08)
+					(name "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 0 -7.62 0)
+					(length 5.08)
+					(name "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 0 -10.16 0)
+					(length 5.08)
+					(name "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 0 -12.7 0)
+					(length 5.08)
+					(name "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Apollo4:root_0_Capacitor_SVNDatabase_Libs1.SVNDbLib"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "NONE"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "*IPC_C*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "root_0_Capacitor_SVNDatabase_Libs1.SVNDbLib_1_0"
+				(polyline
+					(pts
+						(xy 0 -2.032) (xy 0 -1.016)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -4.318) (xy 0 -3.302)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.524 -2.159) (xy -1.524 -2.159)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.524 -3.175) (xy -1.524 -3.175)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 0 0 270)
+					(length 1.778)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -5.08 90)
+					(length 1.524)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "LED_XL-0201:XL-0201UBC"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0.254)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "LED"
+				(at 5.08 -4.445 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Value" "XL-0201UBC"
+				(at 5.08 -7.62 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Footprint" "LED_XL-0201UBC_XLG"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "XL-0201UBC"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "XL-0201UBC"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "LED_XL-0201UBC_XLG LED_XL-0201UBC_XLG-M LED_XL-0201UBC_XLG-L"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "XL-0201UBC_1_1"
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 3.4798 0)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.175 0) (xy 3.81 0)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.81 1.905) (xy 3.81 -1.905)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.81 -1.905) (xy 6.35 0)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 3.175) (xy 6.35 4.445)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.35 4.445) (xy 6.985 3.81)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.35 0) (xy 3.81 1.905)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.35 0) (xy 7.62 0)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.35 -1.905) (xy 6.35 1.905)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.985 3.81) (xy 8.255 5.08)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.985 2.54) (xy 8.255 3.81)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 5.08) (xy 8.255 4.445)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 8.255 5.08) (xy 7.62 5.08)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 8.255 4.445) (xy 8.255 5.08)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 8.255 3.81) (xy 8.89 3.175)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 8.89 3.175) (xy 10.16 4.445)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 9.525 4.445) (xy 10.16 3.81)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.16 4.445) (xy 9.525 4.445)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.16 3.81) (xy 10.16 4.445)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 0 0 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 10.16 0 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "XL-0201UBC_1_2"
+				(polyline
+					(pts
+						(xy -5.08 8.255) (xy -5.08 7.62)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -5.08 7.62) (xy -4.445 8.255)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -4.445 10.16) (xy -4.445 9.525)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -4.445 9.525) (xy -3.81 10.16)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -4.445 8.255) (xy -5.08 8.255)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -4.445 6.35) (xy -3.81 6.985)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.81 10.16) (xy -4.445 10.16)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.81 8.255) (xy -3.175 8.89)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.81 6.985) (xy -5.08 8.255)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.175 8.89) (xy -4.445 10.16)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.175 5.08) (xy -4.445 6.35)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 6.985) (xy -3.81 8.255)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.905 3.81) (xy 1.905 3.81)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 6.35) (xy -1.905 3.81)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 6.35) (xy 0 7.62)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 3.175) (xy 0 3.81)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0 3.4798)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.905 6.35) (xy -1.905 6.35)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.905 3.81) (xy 0 6.35)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 0 10.16 270)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 0 0 90)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(text "INPUT:  	1.9V\n"
+		(exclude_from_sim no)
+		(at 49.53 54.61 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 1.25 1.25)
+				(color 0 0 0 1)
+			)
+			(justify left)
+		)
+		(uuid "15751d6c-ffc2-4d1f-a972-c3ee7ecc044d")
+	)
+	(text "JLink\n"
+		(exclude_from_sim no)
+		(at 182.88 58.42 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 2.5 2.5)
+				(thickness 0.254)
+				(color 0 0 0 1)
+			)
+			(justify left top)
+		)
+		(uuid "33bbbc72-f675-4c75-88af-de05457cb3aa")
+	)
+	(text "Button"
+		(exclude_from_sim no)
+		(at 35.56 55.88 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 2.5 2.5)
+				(thickness 0.254)
+				(color 0 0 0 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "3b0e059c-7833-4b8b-8c3d-d9725fc22157")
+	)
+	(text "GREEN"
+		(exclude_from_sim no)
+		(at 125.73 76.2 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 2 2)
+				(color 0 0 0 1)
+			)
+		)
+		(uuid "4f0b7380-191e-4927-950b-e85f24fe7c22")
+	)
+	(text "INPUT:  	1.9V\n\n"
+		(exclude_from_sim no)
+		(at 200.66 60.96 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 1.25 1.25)
+				(color 0 0 0 1)
+			)
+			(justify left)
+		)
+		(uuid "9e04ccb0-0046-405f-9f9c-78b20c931f4b")
+	)
+	(text "BLUE"
+		(exclude_from_sim no)
+		(at 143.51 82.55 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 2 2)
+				(color 0 0 0 1)
+			)
+		)
+		(uuid "a6869fd6-3dd3-4447-881c-e6240df57b8d")
+	)
+	(text "LEDs\n"
+		(exclude_from_sim no)
+		(at 113.03 55.88 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 2.5 2.5)
+				(thickness 0.254)
+				(color 0 0 0 1)
+			)
+			(justify left top)
+		)
+		(uuid "ad3e0e6a-addf-4464-8760-3baddc33d5ea")
+	)
+	(text "RED"
+		(exclude_from_sim no)
+		(at 111.76 82.55 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 2 2)
+				(color 0 0 0 1)
+			)
+		)
+		(uuid "ae5312c8-267a-4b0c-a8e7-7c2a0c232b63")
+	)
+	(text "INPUT:  	BAT+ 3.7V Nominal\n\n"
+		(exclude_from_sim no)
+		(at 127 58.42 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 1.25 1.25)
+				(color 0 0 0 1)
+			)
+			(justify left)
+		)
+		(uuid "d1df283e-3dea-4203-9927-aa26a7ca716b")
+	)
+	(junction
+		(at 125.73 73.66)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "153fb471-360c-4b3e-9af1-1e53a74b6b7d")
+	)
+	(junction
+		(at 182.88 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2f5434c2-fde2-4154-b573-7bbada1b79db")
+	)
+	(junction
+		(at 53.34 99.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3abd7de3-4659-463e-8108-32e15d69282b")
+	)
+	(junction
+		(at 182.88 95.25)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "56c4a029-eab7-4275-8fb2-a375b3d24f92")
+	)
+	(junction
+		(at 182.88 78.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "93b34018-a098-4f4f-bb31-a3073eb45712")
+	)
+	(junction
+		(at 45.72 81.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a18b0bed-c3e8-4693-8fce-6572708bf4f8")
+	)
+	(junction
+		(at 201.93 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bcedd828-c747-4697-847b-f007d5f82885")
+	)
+	(wire
+		(pts
+			(xy 182.88 95.25) (xy 187.96 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "039082ac-309d-40f0-95b3-3847e95affcf")
+	)
+	(wire
+		(pts
+			(xy 118.11 113.03) (xy 116.84 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b0256dd-9fcc-49c4-b340-b735378c58b8")
+	)
+	(wire
+		(pts
+			(xy 45.72 64.77) (xy 45.72 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "143edf1d-ee95-4409-9e73-9415d83f5a2a")
+	)
+	(wire
+		(pts
+			(xy 129.54 120.65) (xy 134.62 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "155dc3b7-e945-4786-b22b-6881bfd23afe")
+	)
+	(wire
+		(pts
+			(xy 201.93 91.44) (xy 224.79 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1863aa8f-108e-4462-bf4d-cfaf2eacabd7")
+	)
+	(wire
+		(pts
+			(xy 210.82 88.9) (xy 224.79 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1d64c619-9e48-4ec2-abf8-419b98bd5e6e")
+	)
+	(wire
+		(pts
+			(xy 187.96 86.36) (xy 187.96 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e3f1829-19b6-47f6-b070-3c46ee606072")
+	)
+	(wire
+		(pts
+			(xy 125.73 67.31) (xy 125.73 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "28121e5d-9a1e-40e9-9acf-1b9245c5da8e")
+	)
+	(wire
+		(pts
+			(xy 182.88 95.25) (xy 182.88 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2f599dc3-10ef-48b5-a87f-586d4906ecba")
+	)
+	(wire
+		(pts
+			(xy 53.34 99.06) (xy 57.15 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3925dadf-ecd0-48c1-9ad7-25b8fb66e71a")
+	)
+	(wire
+		(pts
+			(xy 123.19 116.84) (xy 125.73 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3bc67180-42f7-4a7d-894a-8f10a9132761")
+	)
+	(wire
+		(pts
+			(xy 125.73 73.66) (xy 125.73 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "412d9325-b7af-4964-a9fa-5cca13d80f27")
+	)
+	(wire
+		(pts
+			(xy 182.88 107.95) (xy 201.93 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "47352457-387e-426e-946b-7f7a0eab54a8")
+	)
+	(wire
+		(pts
+			(xy 207.01 107.95) (xy 201.93 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4918ff3f-ecfb-406a-9fb6-56b05d03c0f9")
+	)
+	(wire
+		(pts
+			(xy 53.34 99.06) (xy 53.34 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5732cee4-8f84-4441-8a08-3245cf42c743")
+	)
+	(wire
+		(pts
+			(xy 45.72 77.47) (xy 45.72 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ab9d770-bee7-48e0-9a20-76a9847dbb0f")
+	)
+	(wire
+		(pts
+			(xy 182.88 90.17) (xy 182.88 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5bb7d514-e58d-4e12-aef5-dcedfe0e7267")
+	)
+	(wire
+		(pts
+			(xy 224.79 78.74) (xy 224.79 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5be3ec2a-a29d-470a-ad54-4bc0e033a193")
+	)
+	(wire
+		(pts
+			(xy 134.62 97.79) (xy 134.62 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d570668-6c24-48b4-a595-7842dc7b0674")
+	)
+	(wire
+		(pts
+			(xy 36.83 81.28) (xy 45.72 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6772f422-ffb5-4b44-92e1-2fea028629f1")
+	)
+	(wire
+		(pts
+			(xy 182.88 107.95) (xy 182.88 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "696a073e-b829-43dd-8ee0-fe650313549d")
+	)
+	(wire
+		(pts
+			(xy 125.73 116.84) (xy 125.73 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "732b87f0-0de9-4cf6-95e5-be56e52cf71c")
+	)
+	(wire
+		(pts
+			(xy 118.11 77.47) (xy 118.11 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "751f1c45-6edd-4515-8b2f-48e5d8885c24")
+	)
+	(wire
+		(pts
+			(xy 45.72 81.28) (xy 53.34 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "828f476f-29b8-47f0-bb73-cfff875c2504")
+	)
+	(wire
+		(pts
+			(xy 134.62 77.47) (xy 134.62 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "85917582-a621-411e-b1fc-27cd3d595ace")
+	)
+	(wire
+		(pts
+			(xy 118.11 73.66) (xy 125.73 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9660babe-f455-48ec-a2d5-a806056ebd95")
+	)
+	(wire
+		(pts
+			(xy 201.93 91.44) (xy 201.93 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "983106d1-fd1b-48b0-9ddb-577a103472b9")
+	)
+	(wire
+		(pts
+			(xy 210.82 83.82) (xy 224.79 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9862cece-ec0e-4867-adc6-464f6668de35")
+	)
+	(wire
+		(pts
+			(xy 53.34 83.82) (xy 53.34 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a829a6ed-2e65-4181-b6b8-cd3c3bebdaf0")
+	)
+	(wire
+		(pts
+			(xy 182.88 104.14) (xy 182.88 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "abc69e45-6f9c-48e5-94ca-49327399e137")
+	)
+	(wire
+		(pts
+			(xy 182.88 78.74) (xy 224.79 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ae0f0cec-7dde-4caf-b715-e77b0d1a7ab1")
+	)
+	(wire
+		(pts
+			(xy 128.27 67.31) (xy 125.73 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c350941b-c9e5-46fe-a586-6f6dd80dbfcc")
+	)
+	(wire
+		(pts
+			(xy 182.88 69.85) (xy 182.88 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c55d7d41-c933-4f84-a02e-0a6bc1c95ed9")
+	)
+	(wire
+		(pts
+			(xy 134.62 73.66) (xy 125.73 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c6ed0fa3-9983-4cfd-88cb-eae1ff636e6c")
+	)
+	(wire
+		(pts
+			(xy 182.88 80.01) (xy 182.88 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "de6c8692-d986-4893-96bd-6da94647e1cd")
+	)
+	(wire
+		(pts
+			(xy 118.11 97.79) (xy 118.11 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e6cf1829-d549-4aa9-9a3b-9fea03c621c5")
+	)
+	(wire
+		(pts
+			(xy 217.17 93.98) (xy 224.79 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eb95504b-4858-4d12-ae2a-34b4ebc31fe6")
+	)
+	(wire
+		(pts
+			(xy 224.79 86.36) (xy 187.96 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec61b11a-776f-4f04-b959-0e49916133f8")
+	)
+	(global_label "SWO_GP24"
+		(shape input)
+		(at 217.17 93.98 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(face "Arial")
+				(size 1.25 1.25)
+				(color 0 0 0 1)
+			)
+			(justify right)
+		)
+		(uuid "2888e45b-acd8-4c93-a558-56bbc9831c4a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 204.8301 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "LED_2"
+		(shape output)
+		(at 129.54 120.65 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "5991c487-17a3-4dd2-8b07-1a7d26f45433")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 120.9306 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "REG_1.9V"
+		(shape input)
+		(at 182.88 69.85 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "68655b4f-7b62-400e-8b6e-15eaf42caa05")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 194.6342 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "BAT+"
+		(shape input)
+		(at 128.27 67.31 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7abf0ee0-4af9-41f0-9d64-3e8f99148ff2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 136.1538 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "nRST"
+		(shape input)
+		(at 187.96 95.25 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(face "Arial")
+				(size 1.25 1.25)
+				(color 0 0 0 1)
+			)
+			(justify left)
+		)
+		(uuid "7e0cfd9c-212a-40ff-be48-8f17503de4ba")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 195.1488 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "BUTTON_0"
+		(shape output)
+		(at 36.83 81.28 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7e5fc533-60a2-471f-bda4-cb6df5d7f36b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 24.471 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SWDIO_GP21"
+		(shape bidirectional)
+		(at 210.82 83.82 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(face "Arial")
+				(size 1.25 1.25)
+				(color 0 0 0 1)
+			)
+			(justify right)
+		)
+		(uuid "8aece2ed-c9e0-46d0-abcd-0a4727b556a4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 195.6375 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "LED_1"
+		(shape output)
+		(at 123.19 116.84 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "96f2ae8e-7a9d-4838-bb95-aa8509f82361")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 114.5806 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "REG_1.9V"
+		(shape input)
+		(at 45.72 64.77 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a39b1366-555a-4b9d-8902-4148de6abc3e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 57.4742 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape bidirectional)
+		(at 57.15 99.06 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c28a0ec0-8da2-4d0d-9a66-d7bbfa26bc75")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 65.117 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape bidirectional)
+		(at 207.01 107.95 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c93e0ce5-f526-44d9-8d14-34d1942ab5f0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 214.977 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SWCLK_GP20"
+		(shape output)
+		(at 210.82 88.9 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(face "Arial")
+				(size 1.25 1.25)
+				(color 0 0 0 1)
+			)
+			(justify right)
+		)
+		(uuid "de1e6c38-eb7d-4859-803d-cfd2778b41c6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 196.4395 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "LED_0"
+		(shape output)
+		(at 116.84 113.03 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "fc264307-b9c8-43d6-9b5c-1c6fd9fe0cee")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 108.2306 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LED_XL-0201:XL-0201UBC")
+		(at 125.73 77.47 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "04a09705-d25a-42e0-bced-03730bd296a2")
+		(property "Reference" "LED4"
+			(at 119.38 78.74 90)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "XL-0201UGC"
+			(at 132.08 85.0899 90)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_0201_0603Metric"
+			(at 125.73 77.47 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/7696/XL-0201UBC.pdf"
+			(at 125.73 77.47 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "CHIP LED 0201 GREEN SMD"
+			(at 125.73 77.47 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "3D Model" ""
+			(at 125.73 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "XINGLIGHT"
+			(at 125.73 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "XL-0201UGC"
+			(at 125.73 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CASE CODE (METRIC)" "0603"
+			(at 125.73 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C3646922 "
+			(at 125.73 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C3646922 "
+			(at 125.73 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "3bb56248-30a0-4754-887c-f27aa17d6665")
+		)
+		(pin "1"
+			(uuid "e7046db8-7a6c-4c87-a96f-808cc8d266b4")
+		)
+		(instances
+			(project ""
+				(path "/adf27212-2f0b-4927-992a-4aef99accb6e/8ac3d965-c3b3-4586-8e10-bb345493e7a5"
+					(reference "LED4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Apollo4:GND_POWER_GROUND")
+		(at 182.88 109.22 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1a1a4963-456e-4515-9901-18c25135e495")
+		(property "Reference" "#PWR013"
+			(at 182.88 109.22 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 182.88 115.57 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 182.88 109.22 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 182.88 109.22 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 182.88 109.22 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+			)
+		)
+		(pin ""
+			(uuid "77091bd6-de95-436d-9697-fcaf97ecd84f")
+		)
+		(instances
+			(project "Apollo4_SE_Left_V2"
+				(path "/adf27212-2f0b-4927-992a-4aef99accb6e/8ac3d965-c3b3-4586-8e10-bb345493e7a5"
+					(reference "#PWR013")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Apollo4:TC2030-IDC")
+		(at 224.79 81.28 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board no)
+		(dnp no)
+		(uuid "2ed9d808-6951-4407-9aac-f979f3b1fac4")
+		(property "Reference" "J1"
+			(at 228.6 76.2 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TC2030-IDC"
+			(at 232.41 76.2 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TC2030:TC2030_THL_PINS"
+			(at 224.79 81.28 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "TC2030-IDC"
+			(at 224.79 81.28 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 224.79 81.28 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "3D Model" ""
+			(at 224.79 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 224.79 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CASE CODE (METRIC)" "DNP"
+			(at 224.79 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "DNP"
+			(at 224.79 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "5"
+			(uuid "d5068633-965a-4ac0-b349-461caa88b485")
+		)
+		(pin "2"
+			(uuid "47034366-f7d6-4da5-b419-68b148341d58")
+		)
+		(pin "4"
+			(uuid "341e3353-0a54-499e-8529-836842c96a38")
+		)
+		(pin "6"
+			(uuid "a3fd9c5b-73aa-4836-9cff-f5a8e680d75e")
+		)
+		(pin "3"
+			(uuid "d0521b10-21b4-4d74-8fd6-f55e2016ec61")
+		)
+		(pin "1"
+			(uuid "a2aaf81d-55a8-4cae-bcac-872b19642dc2")
+		)
+		(instances
+			(project "Apollo4_SE_Left_V2"
+				(path "/adf27212-2f0b-4927-992a-4aef99accb6e/8ac3d965-c3b3-4586-8e10-bb345493e7a5"
+					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Apollo4:CRCW04021K00FKED (Altium Display 2)")
+		(at 123.19 95.25 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3a4063cc-0225-4e25-aba7-fbb62b567bb2")
+		(property "Reference" "R13"
+			(at 129.032 91.694 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+			)
+		)
+		(property "Value" "150"
+			(at 129.032 97.536 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+			)
+		)
+		(property "Footprint" "apollo4_SE:SMT_0201_0603Metric"
+			(at 123.19 95.25 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
+			(at 123.19 95.25 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "RES 150 OHM 5% 1/20W 0201"
+			(at 123.19 95.25 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "CASE CODE (METRIC)" "0603"
+			(at 123.19 95.25 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "CASE/PACKAGE" ""
+			(at 123.19 95.25 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "YAGEO"
+			(at 123.19 95.25 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RC0201JR-07150RL "
+			(at 123.19 95.25 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "3D Model" ""
+			(at 123.19 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C274881 "
+			(at 123.19 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C274881 "
+			(at 123.19 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b901c7f4-5c5c-47c3-8092-e80bc929424d")
+		)
+		(pin "2"
+			(uuid "e42e3a24-1091-4b82-a09f-096dbb41f178")
+		)
+		(instances
+			(project ""
+				(path "/adf27212-2f0b-4927-992a-4aef99accb6e/8ac3d965-c3b3-4586-8e10-bb345493e7a5"
+					(reference "R13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LED_XL-0201:XL-0201UBC")
+		(at 134.62 77.47 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "50dd9d5a-3800-4dab-9d15-e09d69c2a16e")
+		(property "Reference" "LED5"
+			(at 128.27 78.74 90)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "XL-0201UBC"
+			(at 140.97 85.0899 90)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_0201_0603Metric"
+			(at 134.62 77.47 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/7696/XL-0201UBC.pdf"
+			(at 134.62 77.47 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "CHIP LED 0201 BLUE SMD"
+			(at 134.62 77.47 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "3D Model" ""
+			(at 134.62 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "XINGLIGHT"
+			(at 134.62 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "XL-0201UBC"
+			(at 134.62 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CASE CODE (METRIC)" "0603"
+			(at 134.62 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C3646921 "
+			(at 134.62 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C3646921 "
+			(at 134.62 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "33ee1240-057c-4744-95f0-a9af158a8109")
+		)
+		(pin "1"
+			(uuid "cef4fe14-c8ca-4838-9d91-ebfdef8d4168")
+		)
+		(instances
+			(project ""
+				(path "/adf27212-2f0b-4927-992a-4aef99accb6e/8ac3d965-c3b3-4586-8e10-bb345493e7a5"
+					(reference "LED5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Apollo4:NANOT160AS")
+		(at 53.34 81.28 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5479399d-f137-4a63-9323-04699e50e4ba")
+		(property "Reference" "S1"
+			(at 64.77 76.2 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "NANOT160AS"
+			(at 64.7701 87.63 90)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "NANOT160AS:NANOT160AS"
+			(at 62.2301 87.63 90)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.ckswitches.com/media/2866/nanot.pdf"
+			(at 72.39 276.2 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "SWITCH TACTILE SPST-NO 0.02A 15V"
+			(at 53.34 81.28 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 72.39 476.2 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 72.39 576.2 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 72.39 676.2 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "C & K COMPONENTS"
+			(at 72.39 776.2 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GSNANOT000102"
+			(at 72.39 876.2 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "CASE CODE (METRIC)" "2116"
+			(at 53.34 81.28 90)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "3D Model" ""
+			(at 53.34 81.28 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2760981 "
+			(at 53.34 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C2760981 "
+			(at 53.34 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b3ea0170-493e-4b8a-b16a-b3b8b616c522")
+		)
+		(pin "2"
+			(uuid "5f509f19-7759-4f21-b36e-a29a1ed21a82")
+		)
+		(instances
+			(project ""
+				(path "/adf27212-2f0b-4927-992a-4aef99accb6e/8ac3d965-c3b3-4586-8e10-bb345493e7a5"
+					(reference "S1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LED_XL-0201:XL-0201UBC")
+		(at 118.11 77.47 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "720063f3-1191-45f6-8b41-b0625600eb4b")
+		(property "Reference" "LED3"
+			(at 110.49 78.74 90)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "XL-0201SURC"
+			(at 124.46 85.0899 90)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_0201_0603Metric"
+			(at 118.11 77.47 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/7696/XL-0201UBC.pdf"
+			(at 118.11 77.47 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "CHIP LED 0201 RED SMD"
+			(at 118.11 77.47 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "3D Model" ""
+			(at 118.11 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "XINGLIGHT"
+			(at 118.11 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "XL-0201SURC"
+			(at 118.11 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CASE CODE (METRIC)" "0603"
+			(at 118.11 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C3646923 "
+			(at 118.11 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C3646923 "
+			(at 118.11 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "55b11a59-2229-465f-ad7f-3e1a897a8f36")
+		)
+		(pin "1"
+			(uuid "5d511894-d6ab-4dfb-a7f9-35ed2bdb8cd1")
+		)
+		(instances
+			(project ""
+				(path "/adf27212-2f0b-4927-992a-4aef99accb6e/8ac3d965-c3b3-4586-8e10-bb345493e7a5"
+					(reference "LED3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Apollo4:CRCW04021K00FKED (Altium Display 2)")
+		(at 132.08 95.25 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7e7929b7-7b56-4634-abf2-5dbda237b916")
+		(property "Reference" "R14"
+			(at 137.922 91.694 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+			)
+		)
+		(property "Value" "150"
+			(at 137.922 97.536 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+			)
+		)
+		(property "Footprint" "apollo4_SE:SMT_0201_0603Metric"
+			(at 132.08 95.25 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
+			(at 132.08 95.25 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "RES 150 OHM 5% 1/20W 0201"
+			(at 132.08 95.25 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "CASE CODE (METRIC)" "0603"
+			(at 132.08 95.25 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "CASE/PACKAGE" ""
+			(at 132.08 95.25 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "YAGEO"
+			(at 132.08 95.25 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RC0201JR-07150RL "
+			(at 132.08 95.25 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "3D Model" ""
+			(at 132.08 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C274881 "
+			(at 132.08 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C274881 "
+			(at 132.08 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e6d95d63-75ca-40b6-a998-ff323ebfbe12")
+		)
+		(pin "2"
+			(uuid "3cd20d63-4926-4632-a172-bf433f76392e")
+		)
+		(instances
+			(project ""
+				(path "/adf27212-2f0b-4927-992a-4aef99accb6e/8ac3d965-c3b3-4586-8e10-bb345493e7a5"
+					(reference "R14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Apollo4:CRCW04021K00FKED (Altium Display 2)")
+		(at 115.57 95.25 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "926ab191-bb09-4008-92ab-17e68374c3f6")
+		(property "Reference" "R12"
+			(at 121.412 91.694 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+			)
+		)
+		(property "Value" "150"
+			(at 121.412 97.536 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+			)
+		)
+		(property "Footprint" "apollo4_SE:SMT_0201_0603Metric"
+			(at 115.57 95.25 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
+			(at 115.57 95.25 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "RES 150 OHM 5% 1/20W 0201"
+			(at 115.57 95.25 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "CASE CODE (METRIC)" "0603"
+			(at 115.57 95.25 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "CASE/PACKAGE" ""
+			(at 115.57 95.25 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "YAGEO"
+			(at 115.57 95.25 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RC0201JR-07150RL "
+			(at 115.57 95.25 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "3D Model" ""
+			(at 115.57 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C274881 "
+			(at 115.57 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C274881 "
+			(at 115.57 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4dd7d028-975a-417d-886b-df190811f041")
+		)
+		(pin "2"
+			(uuid "00ecc62a-0768-4bdd-9d37-4f48196f5cfc")
+		)
+		(instances
+			(project ""
+				(path "/adf27212-2f0b-4927-992a-4aef99accb6e/8ac3d965-c3b3-4586-8e10-bb345493e7a5"
+					(reference "R12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Apollo4:CRCW04021K00FKED (Altium Display 2)")
+		(at 43.18 74.93 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9e09f0a0-c30f-417c-9ad6-a73629e6e8f5")
+		(property "Reference" "R11"
+			(at 48.26 70.4849 90)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "100K"
+			(at 48.26 74.2949 90)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "apollo4_SE:SMT_0201_0603Metric"
+			(at 43.18 74.93 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
+			(at 43.18 74.93 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "RES 100K OHM 1% 1/20W 0201"
+			(at 43.18 74.93 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "CASE CODE (METRIC)" "0603"
+			(at 43.18 74.93 90)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "CASE/PACKAGE" ""
+			(at 43.18 74.93 90)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "YAGEO"
+			(at 43.18 74.93 90)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RC0201FR-07100KL "
+			(at 43.18 74.93 90)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "3D Model" ""
+			(at 43.18 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C106224 "
+			(at 43.18 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C106224 "
+			(at 43.18 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cb04e2d0-bc2e-40b4-9822-1ae674efdaac")
+		)
+		(pin "2"
+			(uuid "978fbf2b-fbd1-4ad0-af60-4cd5301b259c")
+		)
+		(instances
+			(project ""
+				(path "/adf27212-2f0b-4927-992a-4aef99accb6e/8ac3d965-c3b3-4586-8e10-bb345493e7a5"
+					(reference "R11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Apollo4:GND_POWER_GROUND")
+		(at 53.34 102.87 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "cec3969b-239a-46e6-8f1c-b0dd8593aecb")
+		(property "Reference" "#PWR012"
+			(at 53.34 102.87 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 53.34 109.22 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 53.34 102.87 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 53.34 102.87 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 53.34 102.87 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+			)
+		)
+		(pin ""
+			(uuid "bc729dfe-b0b5-453c-90f3-72339b86318b")
+		)
+		(instances
+			(project ""
+				(path "/adf27212-2f0b-4927-992a-4aef99accb6e/8ac3d965-c3b3-4586-8e10-bb345493e7a5"
+					(reference "#PWR012")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Apollo4:root_0_Capacitor_SVNDatabase_Libs1.SVNDbLib")
+		(at 182.88 99.06 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "dc5533fa-fc18-4357-94be-145f1d4c038b")
+		(property "Reference" "C26"
+			(at 185.42 101.6 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "6pF"
+			(at 185.42 104.14 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "apollo4_SE:SMT_0201_0603Metric"
+			(at 182.88 99.06 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM0335C1H6R0CA01-01.pdf"
+			(at 182.88 99.06 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "CAP CER 6PF 50V C0G/NP0 0201"
+			(at 182.88 99.06 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "CASE CODE (METRIC)" "0603"
+			(at 182.88 99.06 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "CASE/PACKAGE" ""
+			(at 182.88 99.06 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Murata Electronics"
+			(at 182.88 99.06 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM0335C1E6R0DA01D "
+			(at 182.88 99.06 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "3D Model" ""
+			(at 182.88 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C161395 "
+			(at 182.88 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C161395 "
+			(at 182.88 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "398ae23a-b390-4f5f-9bcb-bd8aa1f1cb18")
+		)
+		(pin "1"
+			(uuid "d0fe77dd-4657-4758-8eb9-fb026a1ea786")
+		)
+		(instances
+			(project "Apollo4_SE_Left_V2"
+				(path "/adf27212-2f0b-4927-992a-4aef99accb6e/8ac3d965-c3b3-4586-8e10-bb345493e7a5"
+					(reference "C26")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Apollo4:CRCW04021K00FKED (Altium Display 2)")
+		(at 185.42 82.55 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e06bd25c-5e33-4619-ad3f-9ef9a0d1bafc")
+		(property "Reference" "R15"
+			(at 177.8 85.09 90)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+			)
+		)
+		(property "Value" "4.7K"
+			(at 177.8 88.9 90)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+			)
+		)
+		(property "Footprint" "apollo4_SE:SMT_0201_0603Metric"
+			(at 185.42 82.55 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
+			(at 185.42 82.55 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "RES 4.7K OHM 1% 1/20W 0201"
+			(at 185.42 82.55 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "CASE CODE (METRIC)" "0603"
+			(at 185.42 82.55 90)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "CASE/PACKAGE" ""
+			(at 185.42 82.55 90)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "YAGEO"
+			(at 185.42 82.55 90)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RC0201FR-074K7L "
+			(at 185.42 82.55 90)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.25 1.25)
+					(color 0 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "3D Model" ""
+			(at 185.42 82.55 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C138135 "
+			(at 185.42 82.55 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C138135 "
+			(at 185.42 82.55 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f50617a4-de1a-496d-b61f-1add878d2a73")
+		)
+		(pin "2"
+			(uuid "496eafa6-cc77-4ce1-a749-32c6000e4a29")
+		)
+		(instances
+			(project "Apollo4_SE_Left_V2"
+				(path "/adf27212-2f0b-4927-992a-4aef99accb6e/8ac3d965-c3b3-4586-8e10-bb345493e7a5"
+					(reference "R15")
+					(unit 1)
+				)
+			)
+		)
+	)
+)
